@@ -7,4 +7,8 @@ A campus notes project for learning Git and GitHub.
 3. Make changes.
 4. Commit and push changes.
 5. Create a Pull Request.
-6. Chup
+6. Chu## Features
+
+- Campus Notes Management
+- Contribution Guidelines
+- Easy Project Navigationp
