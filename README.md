@@ -11,4 +11,8 @@ A campus notes project for learning Git and GitHub.
 
 - Campus Notes Management
 - Contribution Guidelines
-- All project instructions are clearly organized.- Easy Project Navigationp
+- All project instructions are clearly organized.- Easy Project N## How to Use
+
+1. Open the project repository.
+2. Read the project instructions.
+3. Follow the contribution guidelines.
