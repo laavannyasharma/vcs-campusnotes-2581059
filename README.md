@@ -11,4 +11,4 @@ A campus notes project for learning Git and GitHub.
 
 - Campus Notes Management
 - Contribution Guidelines
-- Easy Project Navigationp
+- All project instructions are clearly organized.- Easy Project Navigationp
