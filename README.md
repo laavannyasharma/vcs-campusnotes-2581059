@@ -15,4 +15,4 @@ A campus notes project for learning Git and GitHub.
 
 1. Open the project repository.
 2. Read the project instructions.
-3. Follow the contribution guidelines.
+3. Follow the contribution guidelines.## Project Features
