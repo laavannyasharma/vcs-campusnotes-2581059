@@ -1,0 +1,14 @@
+CampusNotes - Sample Study Notes
+
+Subject: Version Control System
+
+Topic: Git Basics
+
+1. Git is a distributed version control system.
+2. Git tracks changes in project files.
+3. Git allows developers to collaborate.
+4. Git branches help developers work independently.
+5. GitHub hosts Git repositories online.
+
+Learning Outcome:
+Understand basic Git commands and collaborative development.
